@@ -1,0 +1,117 @@
+header {height: 42%;
+    width: 100%;
+    background-color:black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Store {
+    margin-left: 100px;
+}
+.Currency {
+    margin-left: 1050px;
+    color: transparent;
+}
+.Sign {
+    margin-right: 150px;
+}
+.second {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid gray;     
+}
+input {
+height: 45px;
+width: 400px;
+padding-left: 16px;
+padding-right: 18px;
+padding-top: 12px;
+padding-bottom: 12px;
+margin-left: 250px;
+}
+.thir {
+    width: 100%;
+    height: 60px;
+    color: white;
+    display: flex;
+    align-items: center;
+}
+.Call {
+   margin-left: 1000px;
+}
+.fourth {
+    width: 100%;
+    height: 120px;
+    background-image: url(/Breadcrumbs.png);
+}
+.Form {
+    text-align: center;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-width: 520px;
+    
+}
+.checkbox {
+    width: 20px;
+    height: 20px;
+    padding-left: 50px;
+}
+.ffooter {
+    width: 100%;
+    height: 162px;
+    background-color: rgb(245, 240, 240);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.button {
+    width: 162px;
+    height: 72px;
+}
+.logo {
+    width: 184px;
+    height: 40px;
+    margin-left: 200px;
+    margin-top: 25px;
+}
+footer {
+    width: 100%;
+    height: 368px;
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.Ecobazar {
+    margin-left: 200px;
+    padding-top: 50px;
+}
+.myaccount {
+    margin-left: 100px;
+    padding-top: 70px;
+}
+.font {
+    font-size: small;
+    color: gray;
+}
+.mya {
+    color: gray;
+    font-size: small;
+}
+.he {
+    color: gray;
+    font-size: small; 
+}
+.pro {
+    color: gray;
+    font-size: small;
+}
+.cat {
+    color: gray;
+    font-size: small;
+}
+.no {
+    color: white;
+    font-size: small;
+}
